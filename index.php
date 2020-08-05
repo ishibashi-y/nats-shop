@@ -32,6 +32,6 @@ echo '<div class="products">';
 			</a></article>
 <?php	} 	?>
 </div> <!--product-->
-<?php echo 'abcd';?>
+<?php echo 'ea83';?>
 <?php require '../footer.php'; ?>
 
